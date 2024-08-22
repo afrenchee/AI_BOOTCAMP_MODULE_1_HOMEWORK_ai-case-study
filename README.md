@@ -1,5 +1,3 @@
-# AI_BOOTCAMP_ai-case-study
-
 # A Case Study on Tesla's Full Self Driving (Supervised) Software
 
 
