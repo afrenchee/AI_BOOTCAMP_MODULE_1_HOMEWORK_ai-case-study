@@ -2,6 +2,10 @@
 
 
 
+![Logo of the company](images/logo.jpg)
+
+
+
 ## Overview and Origin
 
 * Tesla Inc, formally know as Tesla Motors Inc, was founded on July 1st 2003 by Martin Eberhard and Marc Tarpenning, with additional co-founders Ian Wright, Elon Musk, and J. B. Straubel joining throughout 2003 to 2005. While Tesla is a company that primarily focuses on producing electric cars, since 2014 they have also been working on autonomous driving. The "autopilot team" is the group of engineers working at Tesla to develp a self driving software that enables a Robotaxi, driver-less experience in any Tesla vehicle. Tesla is a publically traded company which, and also recieves Regulatory Credits from the government for selling electric cars. While in their early days they heavily relied on recieving credits and then selling them to other automotive companies, they have been profitable without needing to sell them since Q1 2021.
